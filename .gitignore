@@ -3,3 +3,4 @@ config/*
 temp/*
 *.log
 *.db
+__pycache__
