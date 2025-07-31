@@ -9,4 +9,4 @@ Compatibility:
 - `mevprtl_hnl_test.fcl` runs out of the box with the (current) latest version of `sbndcode`, `v10_06_02`
 
 
-- `visualiser.ipynb` was developed using python 3.10, and uses uproot, pandas and awkward to process files, and matplotlib/plotly to generate 2D/3D figures. 
+- `visualiser.ipynb` and `caf_visualiser.ipynb` were developed using python 3.10, and uses uproot, pandas and awkward to process files, and matplotlib/plotly to generate 2D/3D figures. 
